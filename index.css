@@ -1,12 +1,3 @@
-body{
-    padding: 10px;
-    background-color: aquamarine;
-}
-ul{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
 #myimg{
     padding: 10px;
     border-radius: 50%;
