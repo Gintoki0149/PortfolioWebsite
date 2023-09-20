@@ -12,6 +12,7 @@ button{
     margin-right: 5px;
 }
 .container{
+    text-align: center;
     margin: 10px;
 }
 button{
@@ -29,4 +30,12 @@ button{
 .logos{
     display: flex;
     justify-content:center;
+}
+.card{
+    margin: 30px;
+}
+.project_row{
+    padding: 50px;
+    display:flex;
+    justify-content: space-around;
 }
